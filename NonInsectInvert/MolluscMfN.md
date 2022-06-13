@@ -4,6 +4,7 @@ parent: NonInsectInvert
 nav_exclude: true
 ---
 # Mollusc Collection - MfN
+Workflow of half automized digitization with a custom made scanning station
 {: .no_toc }
 
   {: .no_toc .text-delta }
