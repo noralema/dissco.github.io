@@ -11,11 +11,7 @@ nav_exclude: true
   <summary>
     Table of contents
   </summary>
-  {: .text-delta }
-- Overview
-- Workflow
-   - Pre-Digitisation Curation: Input Metadata Tool/Inventarisation Tool from IFF
-   - 
+  {: .text-delta } 
 {:toc}
 </details>
  
@@ -28,8 +24,8 @@ About 56% of the 260,000 specimens in the collection have been digitally recorde
 The DORA project was initiated with the objectif to automate and improve the digitisation effort in the Mollusc Collection by allying speed and quality. DORA offers a direct connection to the target database (Input Metadata Tool), an automatic calculation of the images composed from a focus stacking, as well as, the systematic association and storage of processed image files with their metadata in specified formats and minimal data records.
 
 
-
 These sections are used to add BPMN workflows. Text can also be included to help someone follow the workflow. Not all subheadings will be required for every workflow.
+
 **Pre-Digitisation Curation: Input Metadata Tool/Inventarisation Tool from IFF**
 As part of the digitisation process, inventorising is a necessary step performed before imaging. It ensures the correct recording of the specimens’ minimal data, i.e. transcribing the specimens’ label(s) and assigning identifiers (NURI, collection ID). 
 
