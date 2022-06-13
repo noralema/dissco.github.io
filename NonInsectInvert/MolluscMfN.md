@@ -26,7 +26,7 @@ The DORA project was initiated with the objectif to automate and improve the dig
 
 These sections are used to add BPMN workflows. Text can also be included to help someone follow the workflow. Not all subheadings will be required for every workflow.
 
-**Pre-Digitisation Curation: Input Metadata Tool/Inventarisation Tool from IFF**
+![Pre-Digitisation Curation: Input Metadata Tool/Inventarisation Tool from IFF]
 As part of the digitisation process, inventorising is a necessary step performed before imaging. It ensures the correct recording of the specimens’ minimal data, i.e. transcribing the specimens’ label(s) and assigning identifiers (NURI, collection ID). 
 
 **Specimen Image Capture**
