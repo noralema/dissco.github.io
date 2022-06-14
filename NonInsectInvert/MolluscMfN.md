@@ -24,8 +24,8 @@ About 56% of the 260,000 specimens in the collection have been digitally recorde
 
 The DORA project was initiated aiming to automate and improve the digitisation effort in the Mollusc Collection by allying speed and quality. DORA offers a direct connection to the target database (Input Metadata Tool), an automatic calculation of the images composed from a focus stacking, as well as, the systematic association and storage of processed image files with their metadata in specified formats and minimal data records.
 
-
 **Pre-Digitisation Curation: Input Metadata Tool/Inventarisation Tool from IFF**
+
 As part of the digitisation process, inventorising is a necessary step performed before imaging. It ensures the correct recording of the specimens’ minimal data, i.e. transcribing the specimens’ label(s) and assigning identifiers (NURI (= Museum für Naturkunde Unifor Ressource Identifier), collection ID). 
 
 **Specimen Image Capture**
