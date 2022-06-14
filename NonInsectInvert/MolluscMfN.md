@@ -19,15 +19,14 @@ nav_exclude: true
 These workflows outline the digitisation of the Mollusc Collection, initiated as part of the in-house Collection Future mass digitisation programme at the Natural History Museum (MfN), Berlin. The inventorisation tool (Input Metadata Tool) and the imaging station DORA (Digitize-Organized-Reliable-Automated) were created in partnership with the IFF (Fraunhofer-Institut für Fabrikbetrieb und -automatisierung), Magdeburg.
 
 ## Workflow  
-The Mollusc Collection comprises around 7 million specimens, which makes it one of the largest collections in the MfN. It consists of substantial dry and ethanol collections with overall 260,000 collection units (jars/boxes) covering all mollusc groups. It includes historically valuable material and 9,125 type specimens. In addition, there are specialist collections, such as the collection of approximately 18,000 microscope slides or the collection of molluscs being used in artifacts.
-About 56% of the 260,000 specimens in the collection have been digitally recorded. Alongside historical catalog entries and Excel lists for internal use, an Access database has been used since 2014, where only the samples are recorded. 
-The DORA project was initiated with the objectif to automate and improve the digitisation effort in the Mollusc Collection by allying speed and quality. DORA offers a direct connection to the target database (Input Metadata Tool), an automatic calculation of the images composed from a focus stacking, as well as, the systematic association and storage of processed image files with their metadata in specified formats and minimal data records.
+The Mollusc Collection comprises around 7 million individual specimen, which makes it one of the largest collections in the MfN. It consists of substantial dry and ethanol collections with overall 260,000 collection units (jars/boxes) covering all mollusc groups. It includes historically valuable material and 9,125 type specimens. In addition, there are specialist collections, such as the collection of approximately 18,000 microscope slides or the collection of molluscs being used in artifacts.
+About 56% of the 260,000 specimens in the collection have been digitally recorded. Alongside historical catalog entries and Excel lists for internal use, an Access database has been used since 2014, where the samples are recorded. 
 
+The DORA project was initiated aiming to automate and improve the digitisation effort in the Mollusc Collection by allying speed and quality. DORA offers a direct connection to the target database (Input Metadata Tool), an automatic calculation of the images composed from a focus stacking, as well as, the systematic association and storage of processed image files with their metadata in specified formats and minimal data records.
 
-These sections are used to add BPMN workflows. Text can also be included to help someone follow the workflow. Not all subheadings will be required for every workflow.
 
 **Pre-Digitisation Curation: Input Metadata Tool/Inventarisation Tool from IFF**
-As part of the digitisation process, inventorising is a necessary step performed before imaging. It ensures the correct recording of the specimens’ minimal data, i.e. transcribing the specimens’ label(s) and assigning identifiers (NURI, collection ID). 
+As part of the digitisation process, inventorising is a necessary step performed before imaging. It ensures the correct recording of the specimens’ minimal data, i.e. transcribing the specimens’ label(s) and assigning identifiers (NURI (= Museum für Naturkunde Unifor Ressource Identifier), collection ID). 
 
 **Specimen Image Capture**
 
